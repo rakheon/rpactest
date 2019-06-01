@@ -1,5 +1,5 @@
 # Vector soft-thresholding operator
-#' Title
+#' ST function
 #'
 #' @param a - aa
 #' @param lambda - bb
